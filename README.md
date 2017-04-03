@@ -61,3 +61,5 @@ NOTE:
 i) Use this method inside try catch so no crash issue during fail to call webservice. 
 ii) please use processbar while you not want async call. 
 
+Thanks & Regards,
+Jignesh M. Mehta | Software Engineer 
