@@ -1,7 +1,7 @@
 Webservice helper
 ==================
 
-This is a fork of Webservice helper from David Kingma.
+This is a fork of Webservice helper from  Jignesh M. Mehta.
 
 Original author : Jignesh M. Mehta
 
