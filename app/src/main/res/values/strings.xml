@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Webservice helper</string>
+    <string name="internet_unavailability_msg">Internet not available. Please enable internet on your phone</string>
+</resources>
